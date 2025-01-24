@@ -1,0 +1,13 @@
+.{
+    .name = "mikk-tspace",
+    .version = "0.0.0",
+    .dependencies = .{},
+    .paths = .{
+        "mikktspace.h",
+        "mikktspace.c",
+        "main.zig",
+        "build.zig",
+        "build.zig.zon",
+        "README.md",
+    },
+}
